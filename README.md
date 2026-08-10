@@ -41,4 +41,5 @@ Real-world data required a couple of non-obvious fixes during analysis:
 - No seat capacity/seats column exists in the source data, so seat utilization (Objective 5) could not be directly measured.
 
 ## Tools Used
-SQL — built as a self-directed project during the PW Skills Data Analytics course.
+SQL — built as a self-directed project .
+
