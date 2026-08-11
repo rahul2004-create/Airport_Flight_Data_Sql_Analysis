@@ -31,7 +31,7 @@ Data was normalized into four relational tables:
 7. **Population vs. passenger traffic** — Examined the ratio of total air traffic to city population, city by city.
 8. **Population vs. flight frequency** — Assessed whether larger origin/destination populations correlate with higher route frequency.
 
-Full queries: [`queries.sql`](./queries.sql)
+Full queries: [`queries.sql`](./analysis.sql)
 
 ## Data Cleaning & Challenges
 Real-world data required a couple of non-obvious fixes during analysis:
