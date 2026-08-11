@@ -6,6 +6,10 @@ Air travel is a key component of global connectivity and economic development, b
 
 **Data source:** BTS T-100 Domestic Market (All Carriers) dataset — ~19,900 flight records with passenger, freight, mail, carrier, origin/destination, and route-level details.
 
+## Full Report
+ 📄 [Full Report](./Airport_Data_Analysis_Report.docx).
+
+
 ## Schema
 Data was normalized into four relational tables:
 
