@@ -9,6 +9,8 @@ Air travel is a key component of global connectivity and economic development, b
 ## Schema
 Data was normalized into four relational tables:
 
+![ER Diagram](./er_diagram.png)
+
 | Table | Purpose |
 |---|---|
 | `AIRPORT` | Airport ID, code, city, state — one row per unique airport |
